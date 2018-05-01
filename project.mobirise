@@ -37,8 +37,8 @@
     "noImageResize": "",
     "siteUrl": "",
     "screenshot": "screenshot.png",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "",
+    "robotsText": "User-agent: *\nDisallow: /\n\n",
+    "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
     "google-analytics": ""
   },
