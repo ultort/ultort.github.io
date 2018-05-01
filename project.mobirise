@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page6.html",
+    "currentPage": "page2.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 136,
+    "uniqCompNum": 137,
     "versionPublish": "4.7.2",
     "theme": {
       "name": "mobirise4",
@@ -1426,51 +1426,18 @@
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
-            ".counter-container": {
-              "color": "#767676",
-              "ol": {
-                "margin-bottom": "0",
-                "li": {
-                  "margin-bottom": "1rem"
-                },
-                "& when (@stylizedCounters)": {
-                  "counter-reset": "myCounter",
-                  "li": {
-                    "list-style": "none",
-                    "padding-left": ".5rem",
-                    "&:before": {
-                      "position": "absolute",
-                      "left": "0px",
-                      "margin-top": "-10px",
-                      "counter-increment": "myCounter",
-                      "content": "counter(myCounter)",
-                      "display": "inline-block",
-                      "text-align": "center",
-                      "margin": "5px 10px",
-                      "line-height": "40px",
-                      "transition": "all .2s",
-                      "color": "contrast(@counterColor)",
-                      "background": "@counterColor",
-                      "width": "40px",
-                      "height": "40px",
-                      "border-radius": "50%",
-                      "& when (@squareCounters)": {
-                        "border-radius": "0"
-                      }
-                    }
-                  }
-                }
-              }
+            ".mbr-text, blockquote": {
+              "color": "#767676"
             }
           },
-          "_name": "content11",
-          "_customHTML": "<section class=\"mbr-section article content11\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Стилизованные маркеры\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Квадратные маркеры\" name=\"squareCounters\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Цвет маркера\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ol>\n                    <li><b>МНОГО&nbsp;</b>&nbsp;- подумайте каким должен быть торт, на какое количество гостей Вы рассчитываете.&nbsp;<a href=\"page2.html#features15-1k\" style=\"font-size: 1rem; background-color: rgb(255, 255, 255);\">Попробуйте сейчас!</a></li>\n                    <li><b>ВКУСНО</b> - посмотрите наши рекомендации, это поможет Вам найти лучшее сочетание. <a href=\"page2.html#features15-1k\">Попробуйте сейчас!</a></li>\n                    <li><b>УНИКАЛЬНО</b>&nbsp;- большой ассортимент готовых составов облегчит выбор, а возможность создать свой состав сделает Ваш торт неповторимым. &nbsp;<a href=\"page2.html#features17-1m\">Попробуйте сейчас!</a></li>\n                </ol>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qQkD2eMaP1",
-          "_anchor": "content11-w",
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>МНОГО  - </b>подумайте каким должен быть торт, на какое количество гостей Вы рассчитываете. <a href=\"page2.html#features15-1k\">Попробуйте сейчас!\n</a><div><b><br></b></div><div><b>ВКУСНО - </b>посмотрите наши рекомендации, это поможет Вам найти лучшее сочетание. <a href=\"page2.html#features15-1k\">Попробуйте сейчас!\n</a></div><div><b><br></b></div><div><b>УНИКАЛЬНО </b>- большой ассортимент готовых составов облегчит выбор, а возможность создать свой состав сделает Ваш торт неповторимым.  <a href=\"page2.html#features17-1m\">Попробуйте сейчас!</a></div></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qQPcFlst0m",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_anchor": "content1-3s"
         },
         {
           "_styles": {
@@ -4561,7 +4528,7 @@
             }
           },
           "_name": "content12",
-          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Стилизованные маркеры\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Цвет маркера\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Стилизованные маркеры\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Метка\" name=\"mark\" condition=\"stylizedCounters\">\n        <select title=\"Тип маркера\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Круг с заливкой</option>\n            <option value=\"circle\">Круг</option>\n            <option value=\"square\">Квадрат</option>\n        </select>   \n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><b>Цена</b> - килограмм торта в зависимости от состава стоит от 450 до 700 рублей, при оформлении мастикой 1000 рублей. <a href=\"index.html#countdown2-1p\">Получить скидку.</a></li>\n                    <li><b>Оплата </b>-<b> </b>при заказе через форму сайта Вы можете оплатить от 50 до 100% стоимости торта. <a href=\"https://goo.gl/forms/HRRTUZMfgFW3toZf2\">Перейти к форме заказа.</a></li><li><b>Самовывоз </b>- Вы можете самостоятельно забрать заказ в любой из наших точек выдачи заказов. <a href=\"page9.html\">Посмотреть на карте.</a><br></li><li><b>Доставка</b> - осуществляется по городу при 100% оплате заказа. стоимость от 500 рублей. Перейти к форме заказа.<br><br></li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Стилизованные маркеры\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Цвет маркера\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Стилизованные маркеры\" name=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Метка\" name=\"mark\" condition=\"stylizedCounters\">\n        <select title=\"Тип маркера\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Круг с заливкой</option>\n            <option value=\"circle\">Круг</option>\n            <option value=\"square\">Квадрат</option>\n        </select>   \n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><b>Цена</b> - килограмм торта в зависимости от состава стоит от 450 до 700 рублей, при оформлении мастикой 1000 рублей. <a href=\"index.html#countdown2-1p\">Получить скидку.</a></li>\n                    <li><b>Оплата </b>-<b> </b>при заказе через форму сайта Вы можете оплатить от 50 до 100% стоимости торта. <a href=\"https://goo.gl/forms/HRRTUZMfgFW3toZf2\">Перейти к форме заказа.</a></li><li><b>Самовывоз </b>- Вы можете самостоятельно забрать заказ в любой из наших точек выдачи заказов. <a href=\"page9.html\">Посмотреть на карте.</a><br></li><li><b>Доставка</b> - осуществляется по городу при 100% оплате заказа. стоимость от 500 рублей. Перейти к форме заказа.<br><br></li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qQCgX44xAO",
           "_anchor": "content12-28",
           "_protectedParams": [],
