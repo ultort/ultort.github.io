@@ -6321,39 +6321,16 @@ body {
   color: #767676;
   text-align: center;
 }
-.cid-qQNTnEkK1s {
+.cid-qQOldjX8iB {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-qQNTnEkK1s .counter-container {
+.cid-qQOldjX8iB .mbr-text,
+.cid-qQOldjX8iB blockquote {
   color: #767676;
 }
-.cid-qQNTnEkK1s .counter-container ul {
-  margin-bottom: 0;
-}
-.cid-qQNTnEkK1s .counter-container ul li {
-  margin-bottom: 1rem;
-  list-style: none;
-}
-.cid-qQNTnEkK1s .counter-container ul li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  padding-top: 3px;
-  content: '';
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 20px;
-  transition: all .2s;
-  color: #000000;
-  background: #ffffff;
-  width: 25px;
-  height: 25px;
-  border-radius: 50%;
-}
-.cid-qQNTnEkK1s .mbr-text UL {
+.cid-qQOldjX8iB .mbr-text {
   text-align: center;
 }
 .cid-qQNTnFBAkA .navbar {
