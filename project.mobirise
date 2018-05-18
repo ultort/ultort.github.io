@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 215,
+    "uniqCompNum": 217,
     "versionPublish": "4.7.2",
     "theme": {
       "name": "mobirise4",
@@ -1564,7 +1564,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Название\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Подзаголовок\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Кнопки\" name=\"showButtons\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Фотографии наших работ</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Вы можете зказать любой понравившийся Вам торт,<br>просто пришлите нам фото!&nbsp;</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">ПОДРОБНЕЕ</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">ДЕМО</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Название\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Подзаголовок\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Кнопки\" name=\"showButtons\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Фотографии наших работ</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Вы можете зказать любой понравившийся Вам торт,<br>просто напишите нам!&nbsp;</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">ПОДРОБНЕЕ</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">ДЕМО</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qQn8kvzwOw",
           "_anchor": "content4-13",
           "_protectedParams": [],
@@ -1683,7 +1683,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №52 от 1,5 кг",
                 "active": false
               },
               {
@@ -1696,7 +1696,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №51 от 1,5 кг",
                 "active": false
               },
               {
@@ -1709,7 +1709,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "CD_5 от 2кг",
+                "caption": "Детский торт №50 от 1,5 кг",
                 "active": false
               },
               {
@@ -1722,7 +1722,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №49 от 2 кг",
                 "active": false
               },
               {
@@ -1735,7 +1735,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "КД_6 от 5кг<br>",
+                "caption": "Детский торт №48 от 2 кг<br>",
                 "active": false
               },
               {
@@ -1748,7 +1748,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №47 от 1,5 кг",
                 "active": false
               },
               {
@@ -1761,7 +1761,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №46 от 1,5 кг",
                 "active": false
               },
               {
@@ -1774,7 +1774,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №45 от 2 кг",
                 "active": false
               },
               {
@@ -1787,7 +1787,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №44 от 1,5 кг",
                 "active": false
               },
               {
@@ -1800,7 +1800,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №43 от 1,5 кг",
                 "active": false
               },
               {
@@ -1813,7 +1813,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №42 от 1,5 кг",
                 "active": false
               },
               {
@@ -1826,7 +1826,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №41 от 3 кг",
                 "active": false
               },
               {
@@ -1839,7 +1839,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №40 от 1,5 кг",
                 "active": false
               },
               {
@@ -1852,7 +1852,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №39 от 3 кг",
                 "active": false
               },
               {
@@ -1865,7 +1865,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №38 от 1,5 кг",
                 "active": false
               },
               {
@@ -1878,7 +1878,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №37 от 3 кг",
                 "active": false
               },
               {
@@ -1891,7 +1891,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №36 от 1,5 кг",
                 "active": false
               },
               {
@@ -1904,7 +1904,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №35 от 1,5 кг",
                 "active": false
               },
               {
@@ -1917,7 +1917,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №34 от 1,5 кг",
                 "active": false
               },
               {
@@ -1930,7 +1930,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №33 от 3 кг",
                 "active": true
               }
             ]
@@ -2486,7 +2486,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Название\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Подзаголовок\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Кнопки\" name=\"showButtons\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Фотографии наших работ</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Вы можете зказать любой понравившийся Вам торт,<br>просто пришлите нам фото!&nbsp;</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">ПОДРОБНЕЕ</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">ДЕМО</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Название\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Подзаголовок\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Кнопки\" name=\"showButtons\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Фотографии наших работ</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Вы можете зказать любой понравившийся Вам торт,<br>просто напишите нам!</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">ПОДРОБНЕЕ</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">ДЕМО</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qQnigqEd9a",
           "_anchor": "content4-1a",
           "_protectedParams": [],
@@ -2607,7 +2607,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №39 от 3,5 кг",
                 "active": false
               },
               {
@@ -2620,7 +2620,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "ВСвадебный торт №38 от 5 кг",
                 "active": false
               },
               {
@@ -2633,7 +2633,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №37 от 3,5 кг",
                 "active": false
               },
               {
@@ -2646,7 +2646,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №36 от 5 кг",
                 "active": false
               },
               {
@@ -2659,7 +2659,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №35 от 5 кг",
                 "active": false
               },
               {
@@ -2672,7 +2672,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №34 от 5 кг",
                 "active": false
               },
               {
@@ -2685,7 +2685,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №33 от 5 кг",
                 "active": false
               },
               {
@@ -2698,7 +2698,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №32 от 6 кг",
                 "active": false
               },
               {
@@ -2711,7 +2711,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №31 от 5 кг",
                 "active": false
               },
               {
@@ -2724,7 +2724,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №30 от 5 кг",
                 "active": false
               },
               {
@@ -2737,7 +2737,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №29 от 5 кг",
                 "active": false
               },
               {
@@ -2750,7 +2750,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №28 от 6 кг",
                 "active": false
               },
               {
@@ -2763,7 +2763,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №27 от 5 кг",
                 "active": false
               },
               {
@@ -2776,7 +2776,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №26 от 3 кг",
                 "active": false
               },
               {
@@ -2789,7 +2789,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №25 от 3,5 кг",
                 "active": false
               },
               {
@@ -2802,7 +2802,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №24 от 3,5 кг",
                 "active": false
               },
               {
@@ -2815,7 +2815,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №23 от 3,5 кг",
                 "active": false
               },
               {
@@ -2828,7 +2828,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №22 от 6 кг",
                 "active": false
               },
               {
@@ -2841,7 +2841,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №21 от 5 кг",
                 "active": false
               },
               {
@@ -2854,7 +2854,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №20 от 6 кг",
                 "active": true
               }
             ]
@@ -3410,7 +3410,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Название\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Подзаголовок\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Кнопки\" name=\"showButtons\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Фотографии наших работ</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Вы можете зказать любой понравившийся Вам торт,<br>просто пришлите нам фото!&nbsp;</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">ПОДРОБНЕЕ</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">ДЕМО</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Название\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Подзаголовок\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Кнопки\" name=\"showButtons\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Фотографии наших работ</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Вы можете зказать любой понравившийся Вам торт,<br>просто напишите нам!</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">ПОДРОБНЕЕ</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">ДЕМО</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qQnihILXAZ",
           "_anchor": "content4-1e",
           "_protectedParams": [],
@@ -3531,7 +3531,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №34 от 1,5 кг",
                 "active": false
               },
               {
@@ -3544,7 +3544,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №33 от 1,5 кг",
                 "active": false
               },
               {
@@ -3557,7 +3557,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №32 от 2 кг",
                 "active": false
               },
               {
@@ -3570,7 +3570,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №31 от 2 кг",
                 "active": false
               },
               {
@@ -3583,7 +3583,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №30 от 3 кг",
                 "active": false
               },
               {
@@ -3596,7 +3596,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №29 от 1,5 кг",
                 "active": false
               },
               {
@@ -3609,7 +3609,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №28 от 1,5 кг",
                 "active": false
               },
               {
@@ -3622,7 +3622,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №27 от 1,5 кг",
                 "active": false
               },
               {
@@ -3635,7 +3635,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №26 от 2 кг",
                 "active": false
               },
               {
@@ -3648,7 +3648,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №25 от 2 кг",
                 "active": false
               },
               {
@@ -3661,7 +3661,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №24 от 2 кг",
                 "active": false
               },
               {
@@ -3674,7 +3674,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №23 от 2 кг",
                 "active": false
               },
               {
@@ -3687,7 +3687,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №22 от 2 кг",
                 "active": false
               },
               {
@@ -3700,7 +3700,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №21 от 2 кг",
                 "active": false
               },
               {
@@ -3713,7 +3713,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №20 от 2,5 кг",
                 "active": false
               },
               {
@@ -3726,7 +3726,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №19 от 2 кг",
                 "active": false
               },
               {
@@ -3739,7 +3739,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №18 от 2 кг",
                 "active": false
               },
               {
@@ -3752,7 +3752,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №17 от 2 кг",
                 "active": false
               },
               {
@@ -3765,7 +3765,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №16 от 1,5 кг",
                 "active": false
               },
               {
@@ -3778,7 +3778,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №15 от 1,5 кг",
                 "active": true
               }
             ]
@@ -4957,6 +4957,48 @@
         "order": 11
       },
       "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".title": {
+              "margin-bottom": "2rem"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#767676"
+            },
+            "a:not([href]):not([tabindex])": {
+              "color": "#fff",
+              "border-radius": "3px"
+            },
+            "a.btn-white:not([href]):not([tabindex])": {
+              "color": "#333"
+            },
+            ".multi-horizontal": {
+              "flex-grow": "1",
+              "-webkit-flex-grow": "1",
+              "max-width": "100%"
+            },
+            ".input-group-btn": {
+              "display": "block",
+              "text-align": "center"
+            }
+          },
+          "_name": "form1",
+          "_customHTML": "<section class=\"mbr-section form1\" group=\"Forms\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"6\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Название\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Подзаголовок\" name=\"showSubtitle\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Фоновое изображение\" value=\"../_images/background2.jpg\" parallax>\n            <input type=\"color\" title=\"Цвет фона\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Фоновое видео\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Наложение\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Цвет наложения\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Прозрачность\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-12 col-lg-8\">\n                <h2 mbr-if=\"showTitle\" class=\"mbr-section-title align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    КОНТАКТНАЯ ФОРМА\n                </h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\">\n                    Если не доделаю гугл форму оставлю это</h3>\n            </div>\n        </div>\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div mbr-form class=\"media-container-column col-lg-8\">\n                    <div data-form-alert hidden>\n                        Спасибо за заполнение анкеты!\n                    </div>\n            \n                    <form class=\"mbr-form\" action method=\"post\" name=\"Mobirise Form\">\n                        <div class=\"row row-sm-offset\">\n                            <div class=\"col-md-4 multi-horizontal\" data-for=\"name\">\n                                <div class=\"form-group\">\n                                    <label mbr-text class=\"form-control-label mbr-fonts-style\" mbr-theme-style=\"display-7\" for=\"name\">Имя</label>\n                                    <input type=\"text\" class=\"form-control\" name=\"name\" data-form-field=\"Name\" required>\n                                </div>\n                            </div>\n                            <div class=\"col-md-4 multi-horizontal\" data-for=\"email\">\n                                <div class=\"form-group\">\n                                    <label mbr-text class=\"form-control-label mbr-fonts-style\" mbr-theme-style=\"display-7\" for=\"email\">Email</label>\n                                    <input type=\"email\" class=\"form-control\" name=\"email\" data-form-field=\"Email\" required>\n                                </div>\n                            </div>\n                            <div class=\"col-md-4 multi-horizontal\" data-for=\"phone\">\n                                <div class=\"form-group\">\n                                    <label mbr-text class=\"form-control-label mbr-fonts-style\" mbr-theme-style=\"display-7\" for=\"phone\">Телефон</label>\n                                    <input type=\"tel\" class=\"form-control\" name=\"phone\" data-form-field=\"Phone\">\n                                </div>\n                            </div>\n                        </div>\n                        <div class=\"form-group\" data-for=\"message\">\n                            <label mbr-text class=\"form-control-label mbr-fonts-style\" mbr-theme-style=\"display-7\" for=\"message\">Сообщение</label>\n                            <textarea type=\"text\" class=\"form-control\" name=\"message\" rows=\"7\" data-form-field=\"Message\"></textarea>\n                        </div>\n            \n                        <span mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\" class=\"input-group-btn\">\n                            <a href type=\"submit\" class=\"btn btn-primary btn-form\">ОТПРАВИТЬ</a>\n                        </span>\n                    </form>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qSrHfzkKhV",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "form1-60"
+        },
         {
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
@@ -7917,7 +7959,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Название\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Подзаголовок\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Кнопки\" name=\"showButtons\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Фотографии наших работ</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Вы можете зказать любой понравившийся Вам торт,<br>просто пришлите нам фото!&nbsp;</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">ПОДРОБНЕЕ</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">ДЕМО</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Название\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Подзаголовок\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Кнопки\" name=\"showButtons\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Фотографии наших работ</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Вы можете зказать любой понравившийся Вам торт,<br>просто напишите нам!&nbsp;</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">ПОДРОБНЕЕ</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">ДЕМО</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qSfs3c4CY1",
           "_anchor": "content4-4q",
           "_protectedParams": [],
@@ -8036,7 +8078,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №32 от 1,5 кг",
                 "active": false
               },
               {
@@ -8049,7 +8091,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №31 от 2 кг",
                 "active": false
               },
               {
@@ -8062,7 +8104,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "CD_5 от 2кг",
+                "caption": "Детский торт №30 от 1,5 кг",
                 "active": false
               },
               {
@@ -8075,7 +8117,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №29 от 1,5 кг",
                 "active": false
               },
               {
@@ -8088,7 +8130,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "КД_6 от 5кг<br>",
+                "caption": "Детский торт №28 от 1,5 кг<br>",
                 "active": false
               },
               {
@@ -8101,7 +8143,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №27 от 2 кг",
                 "active": false
               },
               {
@@ -8114,7 +8156,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №26 от 1,5 кг",
                 "active": false
               },
               {
@@ -8127,7 +8169,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №25 от 1,5 кг",
                 "active": false
               },
               {
@@ -8140,7 +8182,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №24 от 2 кг",
                 "active": false
               },
               {
@@ -8153,7 +8195,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №23 от 2 кг",
                 "active": false
               },
               {
@@ -8166,7 +8208,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №22 от 2 кг",
                 "active": false
               },
               {
@@ -8179,7 +8221,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №21 от 2 кг",
                 "active": false
               },
               {
@@ -8192,7 +8234,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №20 от 2 кг",
                 "active": false
               },
               {
@@ -8205,7 +8247,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №19 от 2 кг",
                 "active": false
               },
               {
@@ -8218,7 +8260,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №18 от 2 кг",
                 "active": false
               },
               {
@@ -8231,7 +8273,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №17 от 2 кг",
                 "active": false
               },
               {
@@ -8244,7 +8286,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №16 от 2 кг",
                 "active": false
               },
               {
@@ -8257,7 +8299,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №15 от 2 кг",
                 "active": false
               },
               {
@@ -8270,7 +8312,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №14 от 3 кг",
                 "active": false
               },
               {
@@ -8283,7 +8325,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №13 от 3 кг",
                 "active": true
               }
             ]
@@ -8839,7 +8881,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Название\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Подзаголовок\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Кнопки\" name=\"showButtons\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Фотографии наших работ</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Вы можете зказать любой понравившийся Вам торт,<br>просто пришлите нам фото!&nbsp;</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">ПОДРОБНЕЕ</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">ДЕМО</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Название\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Подзаголовок\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Кнопки\" name=\"showButtons\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Фотографии наших работ</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Вы можете зказать любой понравившийся Вам торт,<br>просто напишите нам!</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">ПОДРОБНЕЕ</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">ДЕМО</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qSfsnZC8zA",
           "_anchor": "content4-4x",
           "_protectedParams": [],
@@ -8958,7 +9000,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №12 от 1.5 кг",
                 "active": false
               },
               {
@@ -8971,7 +9013,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №11 от 1,5 кг",
                 "active": false
               },
               {
@@ -8984,7 +9026,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "CD_5 от 2кг",
+                "caption": "Детский торт №10 от 1,5 кг",
                 "active": false
               },
               {
@@ -8997,7 +9039,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №9 от 1,5 кг",
                 "active": false
               },
               {
@@ -9010,7 +9052,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "КД_6 от 5кг<br>",
+                "caption": "Детский торт №8 от 1,5 кг<br>",
                 "active": false
               },
               {
@@ -9023,7 +9065,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №7 от 1,5 кг",
                 "active": false
               },
               {
@@ -9036,7 +9078,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №6 от 1,5 кг",
                 "active": false
               },
               {
@@ -9049,7 +9091,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №5 от 1,5 кг",
                 "active": false
               },
               {
@@ -9062,7 +9104,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №4 от 1,5 кг",
                 "active": false
               },
               {
@@ -9075,7 +9117,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №3 от 1,5 кг",
                 "active": false
               },
               {
@@ -9088,7 +9130,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №2 от 1,5 кг",
                 "active": false
               },
               {
@@ -9101,7 +9143,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Детский торт №1 от 1,5 кг",
                 "active": true
               }
             ]
@@ -9657,7 +9699,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Название\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Подзаголовок\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Кнопки\" name=\"showButtons\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Фотографии наших работ</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Вы можете зказать любой понравившийся Вам торт,<br>просто пришлите нам фото!</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">ПОДРОБНЕЕ</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">ДЕМО</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Название\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Подзаголовок\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Кнопки\" name=\"showButtons\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Фотографии наших работ</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Вы можете зказать любой понравившийся Вам торт,<br>просто напишите нам!</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">ПОДРОБНЕЕ</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">ДЕМО</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qSqak6U2if",
           "_anchor": "content4-55",
           "_protectedParams": [],
@@ -9778,7 +9820,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №19 от 8 кг",
                 "active": false
               },
               {
@@ -9791,7 +9833,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №18 от 5 кг",
                 "active": false
               },
               {
@@ -9804,7 +9846,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №17 от 3 кг",
                 "active": false
               },
               {
@@ -9817,7 +9859,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №16 от 6 кг",
                 "active": false
               },
               {
@@ -9830,7 +9872,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №15 от 5 кг",
                 "active": false
               },
               {
@@ -9843,7 +9885,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №14 от 5 кг",
                 "active": false
               },
               {
@@ -9856,7 +9898,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №13 от 3,5 кг",
                 "active": false
               },
               {
@@ -9869,7 +9911,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №12 от 5 кг",
                 "active": false
               },
               {
@@ -9882,7 +9924,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №11 от 5 кг",
                 "active": false
               },
               {
@@ -9895,7 +9937,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №10 от 5 кг",
                 "active": false
               },
               {
@@ -9908,7 +9950,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №9 от 3 кг",
                 "active": false
               },
               {
@@ -9921,7 +9963,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №8 от 5 кг",
                 "active": false
               },
               {
@@ -9934,7 +9976,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №7 от 3 кг",
                 "active": false
               },
               {
@@ -9947,7 +9989,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №6 от 3 кг",
                 "active": false
               },
               {
@@ -9960,7 +10002,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №5 от 3 кг",
                 "active": false
               },
               {
@@ -9973,7 +10015,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №4 от 1,5 кг",
                 "active": false
               },
               {
@@ -9986,7 +10028,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №3 от 5 кг",
                 "active": false
               },
               {
@@ -9999,7 +10041,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №2 от 3 кг",
                 "active": false
               },
               {
@@ -10012,7 +10054,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Свадебный торт №1 от 1 кг",
                 "active": true
               }
             ]
@@ -10689,7 +10731,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №14 от 1,5 кг",
                 "active": false
               },
               {
@@ -10702,7 +10744,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №13 от 2 кг",
                 "active": false
               },
               {
@@ -10715,7 +10757,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №12 от 1,5 кг",
                 "active": false
               },
               {
@@ -10728,7 +10770,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №11 от 3 кг",
                 "active": false
               },
               {
@@ -10741,7 +10783,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №10 от 1,5 кг",
                 "active": false
               },
               {
@@ -10754,7 +10796,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №9 от 2 кг",
                 "active": false
               },
               {
@@ -10767,7 +10809,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №8 от 2 кг",
                 "active": false
               },
               {
@@ -10780,7 +10822,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №7 от 2 кг",
                 "active": false
               },
               {
@@ -10793,7 +10835,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №6 от 2 кг",
                 "active": false
               },
               {
@@ -10806,7 +10848,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №5 от 2 кг",
                 "active": false
               },
               {
@@ -10819,7 +10861,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №4 от 2 кг",
                 "active": false
               },
               {
@@ -10832,7 +10874,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №3 от 2 кг",
                 "active": false
               },
               {
@@ -10845,7 +10887,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №2 от 2 кг",
                 "active": false
               },
               {
@@ -10858,7 +10900,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
+                "caption": "Праздничный торт №1 от 2 кг",
                 "active": true
               }
             ]
